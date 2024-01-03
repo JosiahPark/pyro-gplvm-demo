@@ -1,201 +1,234 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+This is free and unencumbered software released into the public domain.
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-   1. Definitions.
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+For more information, please refer to <https://unlicense.org>
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+--
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+This is free and unencumbered software released into the public domain.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+For more information, please refer to <https://unlicense.org>
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+---
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+Non-Disclosure Agreement (NDA)
+  
+This Non-disclosure Agreement ("Agreement") is made effective as of December 05, 2023 ("Effective Date"), by and between _________________ ("Owner"), of _________________, _________________, _________________ _________________, and _________________ ("Recipient"), of _________________, _________________, _________________ _________________. 
+  
+The Owner has requested and the Recipient agrees that the Recipient will protect the confidential material and information which may be disclosed between the Owner and the Recipient. Therefore, the parties agree as follows: 
+  
+I. Confidential Information. The term "Confidential Information" means any information or material which is proprietary to the Owner, whether or not owned or developed by the Owner, which is not generally known other than by the Owner, and which the Recipient may obtain through any direct or indirect contact with the Owner. Regardless of whether specifically identified as confidential or proprietary, Confidential Information shall include any information provided by the Owner concerning the business, technology and information of the Owner and any third party with which the Owner deals, including, without limitation, business records and plans, trade secrets, technical data, product ideas, contracts, financial information, pricing structure, discounts, computer programs and listings, source code and/or object code, copyrights and intellectual property, inventions, sales leads, strategic alliances, partners, and customer and client lists. The nature of the information and the manner of disclosure are such that a reasonable person would understand it to be confidential. 
+  
+	
+ 	(a) Confidential Information does not include:
+  
+		
+ 	?	matters of public knowledge that result from disclosure by the Owner;
+		
+ 	?	information rightfully received by the Recipient from a third party without a duty of confidentiality;
+		
+ 	?	information independently developed by the Recipient;
+		
+ 	?	information disclosed by operation of law;
+		
+ 	?	information disclosed by operation of law;
+		
+ 	?	and any other information that both parties agree in writing is not confidential.
+  
+II. Protection of Confidential Information. The Recipient understands and acknowledges that the Confidential Information has been developed or obtained by the Owner by the investment of significant time, effort, and expense, and that the Confidential Information is a valuable, special, and unique asset of the Owner which provides the Owner with a significant competitive advantage and needs to be protected from improper disclosure. In consideration for the receipt by the Recipient of the Confidential Information, the Recipient agrees as follows: 
+  
+(a) No Disclosure. The Recipient will hold the Confidential Information in confidence and will not disclose the Confidential Information to any person or entity without the prior written consent of the Owner. 
+  
+(b) No Copying/Modifying. The Recipient will not copy or modify any Confidential Information without the prior written consent of the Owner. 
+  
+(c) Unauthorized Use. The Recipient shall promptly advise the Owner if the Recipient becomes aware of any possible unauthorized disclosure or use of the Confidential Information. 
+  
+(d) Application to Employees. The Recipient shall not disclose any Confidential Information to any employees of the Recipient, except those employees who are required to have the Confidential Information in order to perform their job duties in connection with the limited purposes of this Agreement. Each permitted employee to whom Confidential Information is disclosed shall sign a non-disclosure agreement substantially the same as this Agreement at the request of the Owner. 
+  
+III. Unauthorized Disclosure of Information - Injunction. If it appears that the Recipient has disclosed (or has threatened to disclose) Confidential Information in violation of this Agreement, the Owner shall be entitled to an injunction to restrain the Recipient from disclosing the Confidential Information in whole or in part. The Owner shall not be prohibited by this provision from pursuing other remedies, including a claim for losses and damages. 
+  
+IV. Non-Circumvention. For a period of five (5) years after the end of the term of this Agreement, the Recipient will not attempt to do business with, or otherwise solicit any business contacts found or otherwise referred by the Owner to the Recipient for the purpose of circumventing, the result of which shall be to prevent the Owner from realizing or recognizing a profit, fees, or otherwise, without the specific written approval of the Owner. If such circumvention shall occur the Owner shall be entitled to any commissions due pursuant to this Agreement or relating to such transaction. 
+  
+V. Return of Confidential Information. Upon the written request of the Owner, the Recipient shall return to the Owner all written materials containing the Confidential Information. The Recipient shall also deliver to the Owner written statements signed by the Recipient certifying that all materials have been returned within five (5) days of receipt of the request. 
+  
+VI. Relationship of Parties. Neither party has an obligation under this Agreement to purchase any service or item from the other party, or commercially offer any products using or incorporating the Confidential Information. This Agreement does not create any agency, partnership, or joint venture. 
+  
+VII. No Warranty. The Recipient acknowledges and agrees that the Confidential Information is provided on an "AS IS" basis. THE OWNER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE CONFIDENTIAL INFORMATION AND HEREBY EXPRESSLY DISCLAIMS ANY AND ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES IN CONNECTION WITH OR ARISING OUT OF THE PERFORMANCE OR USE OF ANY PORTION OF THE CONFIDENTIAL INFORMATION. The Owner does not represent or warrant that any product or business plans disclosed to the Recipient will be marketed or carried out as disclosed, or at all. Any actions taken by the Recipient in response to the disclosure of the Confidential Information shall be solely at the risk of the Recipient. 
+  
+VIII. Limited License To Use. The Recipient shall not acquire any intellectual property rights under this Agreement except the limited right to use as set forth above. The Recipient acknowledges that, as between the Owner and the Recipient, the Confidential Information and all related copyrights and other intellectual property rights, are (and at all times will be) the property of the Owner, even if suggestions, comments, and/or ideas made by the Recipient are incorporated into the Confidential Information or related materials during the period of this Agreement. 
+  
+IX. Indemnity. Each party agrees to defend, indemnify, and hold harmless the other party and its officers, directors, agents, affiliates, distributors, representatives, and employees from any and all third party claims, demands, liabilities, costs and expenses, including reasonable attorney's fees, costs and expenses resulting from the indemnifying party's material breach of any duty, representation, or warranty under this Agreement. 
+  
+X. Attorney's Fees. In any legal action between the parties concerning this Agreement, the prevailing party shall be entitled to recover reasonable attorney's fees and costs. 
+  
+XI. Term. The obligations of this Agreement shall survive _________________ from the Effective Date or until the Owner sends the Recipient written notice releasing the Recipient from this Agreement. After that, the Recipient must continue to protect the Confidential Information that was received during the term of this Agreement from unauthorized use or disclosure indefinitely. 
+  
+XII. General Provisions. This Agreement sets forth the entire understanding of the parties regarding confidentiality. Any amendments must be in writing and signed by both parties. This Agreement shall be construed under the laws of the State of _________________. This Agreement shall not be assignable by either party. Neither party may delegate its duties under this Agreement without the prior written consent of the other party. The confidentiality provisions of this Agreement shall remain in full force and effect at all times in accordance with the term of this Agreement. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining portions of this Agreement shall remain in full force and effect and construed so as to best effectuate the original intent and purpose of this Agreement. 
+  
+XIII. Whistleblower Protection. This Agreement is in compliance with the Defend Trade Secrets Act and provides civil or criminal immunity to any individual for the disclosure of trade secrets: (i) made in confidence to a federal, state, or local government official, or to an attorney when the disclosure is to report suspected violations of the law; or (ii) in a complaint or other document filed in a lawsuit if made under seal. 
+  
+XIV. Signatories. This Agreement shall be executed by _________________, on behalf of _________________ and _________________ and delivered in the manner prescribed by law as of the date first written above. 
+  
+  
+  
+The Owner: 
+  
+  
+  
+	
+By: s_Af_The_Owner_Name_ 	Date: d_Af_The_Owner_Date_ 
+_________________
+  
+  
+  
+The Recipient: 
+  
+  
+  
+	
+By: s_Af_The_Recipient_Name_ 	Date: d_Af_The_Recipient_Date_ 
+_________________
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+----
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+Open Source Non-Disclosure Agreement (NDA)
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+Effective Date: [Insert Date]
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+This Open Source Non-Disclosure Agreement ("Agreement") is entered into on the Effective Date by and between:
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+Party disclosing confidential information (referred to as the "Disclosing Party"):
+Name: [Owner's Name]
+Address: [Owner's Address]
+City, State, Zip: [Owner's City, State, Zip]
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+Party receiving confidential information (referred to as the "Receiving Party"):
+Name: [Recipient's Name]
+Address: [Recipient's Address]
+City, State, Zip: [Recipient's City, State, Zip]
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+1. Definition of Confidential Information
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+"Confidential Information" refers to any information or material that is proprietary to the Disclosing Party, not generally known outside the Disclosing Party, and which the Receiving Party may obtain through any direct or indirect contact with the Disclosing Party. This includes, but is not limited to, business records, trade secrets, technical data, product ideas, contracts, financial information, pricing structure, discounts, computer programs, source code, copyrights, inventions, sales leads, and customer lists. Confidential Information may be disclosed in writing, orally, electronically, or in any other form.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+Confidential Information does not include:
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+a. Information already in the public domain.
+b. Information rightfully received by the Receiving Party from a third party without a duty of confidentiality.
+c. Information independently developed by the Receiving Party.
+d. Information disclosed by operation of law.
+e. Any information that both parties agree in writing is not confidential.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+2. Protection of Confidential Information
 
-   END OF TERMS AND CONDITIONS
+a. Non-Disclosure: The Receiving Party agrees to maintain the confidentiality of all Confidential Information and will not disclose it to any third party without the prior written consent of the Disclosing Party.
 
-   APPENDIX: How to apply the Apache License to your work.
+b. No Copying/Modifying: The Receiving Party shall not copy, reproduce, or modify any Confidential Information without the prior written consent of the Disclosing Party.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+c. Unauthorized Use: The Receiving Party shall promptly notify the Disclosing Party if it becomes aware of any unauthorized disclosure or use of the Confidential Information.
 
-   Copyright [yyyy] [name of copyright owner]
+d. Employees: The Receiving Party may only disclose Confidential Information to employees who need access for the purpose of this Agreement. Such employees shall also be bound by the terms of this Agreement.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+3. Injunction for Unauthorized Disclosure
 
-       http://www.apache.org/licenses/LICENSE-2.0
+If the Receiving Party breaches this Agreement by disclosing Confidential Information without authorization, the Disclosing Party may seek injunctive relief to prevent further disclosure. This provision does not limit other remedies available to the Disclosing Party, including monetary damages.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+4. Non-Circumvention
+
+For a period of [Insert Number] years after the termination of this Agreement, the Receiving Party will not attempt to do business with, or solicit business contacts referred by the Disclosing Party, to circumvent the Disclosing Party's involvement or interests.
+
+5. Return of Confidential Information
+
+Upon the written request of the Disclosing Party, the Receiving Party shall promptly return all written materials containing Confidential Information and provide a written statement certifying compliance.
+
+6. Relationship of Parties
+
+This Agreement does not create any agency, partnership, or joint venture between the parties.
+
+7. No Warranty
+
+The Confidential Information is provided on an "AS IS" basis. The Disclosing Party makes no warranties, express or implied, and disclaims all implied warranties of merchantability and fitness for a particular purpose.
+
+8. Limited License to Use
+
+The Receiving Party shall not acquire any intellectual property rights under this Agreement except the limited right to use as specified. The Confidential Information and related intellectual property rights remain the property of the Disclosing Party.
+
+9. Indemnity
+
+Each party agrees to defend, indemnify, and hold harmless the other party and its officers, directors, agents, affiliates, and employees from any third-party claims resulting from a breach of this Agreement.
+
+10. Attorney's Fees
+
+In any legal action concerning this Agreement, the prevailing party shall be entitled to recover reasonable attorney's fees and costs.
+
+11. Term
+
+This Agreement shall remain in effect indefinitely, or until the Disclosing Party releases the Receiving Party in writing from this Agreement.
+
+12. General Provisions
+
+- Amendments must be in writing and signed by both parties.
+- This Agreement is governed by the laws of [Insert State].
+- This Agreement is not assignable without the written consent of both parties.
+- The confidentiality provisions remain in effect.
+- If any provision of this Agreement is found invalid, the remainder of the Agreement shall remain in full force and effect.
+
+13. Whistleblower Protection
+
+This Agreement is in compliance with the Defend Trade Secrets Act and provides immunity for reporting suspected violations of the law.
+
+This Agreement is executed as of the Effective Date by the authorized representatives of the parties:
+
+Disclosing Party:
+[Owner's Name]
+By: ___________________________         Date: _______________
+
+Receiving Party:
+[Recipient's Name]
+By: ___________________________         Date: _______________
+
+
+-----
